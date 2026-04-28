@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=python,angular" />
   </a>
 </p>
 <p align="center">
