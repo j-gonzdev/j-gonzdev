@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=aws,docker,linux,ansible,jenkins,kubernetes,grafana,git" />
+    <img src="https://skillicons.dev/icons?i=docker,git" />
   </a>
 </p>
 <p align="center">
   <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=azure,openshift,python,prometheus,gitlab,c,java,ruby,wordpress" />
+    <img src="https://skillicons.dev/icons?i=python" />
   </a>
 </p>
