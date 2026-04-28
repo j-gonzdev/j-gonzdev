@@ -6,10 +6,7 @@
 mindmap
   root((Skills))
     ((Languages))
-      Python
-      JavaScript
-      TypeScript
-      SQL
+    ((Data))
     ((Frameworks))
     ((AI/ML))
     ((DevOps))
