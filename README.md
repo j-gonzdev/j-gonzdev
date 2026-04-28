@@ -11,12 +11,7 @@ mindmap
       TypeScript
       SQL
     ((Frameworks))
-      React
-      FastAPI
-      Pydantic
-      SQLAlchemy
     ((AI/ML))
     ((DevOps))
     ((Cloud))
-      AWS
 ```
