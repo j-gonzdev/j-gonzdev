@@ -12,7 +12,7 @@ mindmap
 ```
 ## Socials
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="[https://skillicons.dev](https://www.instagram.com/jjuangleez/)">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
