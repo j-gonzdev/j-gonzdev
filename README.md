@@ -9,21 +9,10 @@ mindmap
       Python
       JavaScript
       TypeScript
-      R
       SQL
-      Bash
-      PowerShell
     ((Frameworks))
       React
-      Flask
-      Django
       FastAPI
-      Express
-      Electron
-      Next.js
-      Dash
-      R-Shiny
-      Streamlit
       Pydantic
       SQLAlchemy
     ((AI/ML))
