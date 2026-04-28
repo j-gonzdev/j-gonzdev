@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+## Skills
 ```mermaid
 mindmap
   root((Skills))
