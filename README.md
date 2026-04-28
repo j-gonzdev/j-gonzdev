@@ -2,13 +2,32 @@
 
 ### <p align="center">My Technical Skills</p>
 
-<p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=python,angular" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://mdazfar2.netlify.app">
-    <img src="https://skillicons.dev/icons?i=git,postgresql,docker" />
-  </a>
-</p>
+```mermaid
+mindmap
+  root((Skills))
+    ((Languages))
+      Python
+      JavaScript
+      TypeScript
+      R
+      SQL
+      Bash
+      PowerShell
+    ((Frameworks))
+      React
+      Flask
+      Django
+      FastAPI
+      Express
+      Electron
+      Next.js
+      Dash
+      R-Shiny
+      Streamlit
+      Pydantic
+      SQLAlchemy
+    ((AI/ML))
+    ((DevOps))
+    ((Cloud))
+      AWS
+```
